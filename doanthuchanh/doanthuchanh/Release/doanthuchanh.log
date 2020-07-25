@@ -1,0 +1,8 @@
+﻿  function12.cpp
+c:\users\phu\source\repos\doanthuchanh\doanthuchanh\function12.cpp(267): warning C4129: 'm': unrecognized character escape sequence
+  Generating code
+  0 of 87 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  doanthuchanh.vcxproj -> C:\Users\PHU\source\repos\doanthuchanh\Release\doanthuchanh.exe
